@@ -1,6 +1,6 @@
 # Flutter Youtube Clone. 
 
-A Mobile Application that mimics the functionality of YouTube. It allows users to browse and search for videos, watch them in a built-in player, like and comment on videos, and subscribe to channels. The app provides a user-friendly interface and leverages Flutter's widgets and libraries to deliver a smooth video streaming experience.
+The YouTube clone app is built using the Flutter framework, which enables cross-platform development for both iOS and Android devices. It utilizes the Material Design principles to provide a visually appealing and intuitive user interface. The app integrates with APIs to fetch and display video content from the YouTube platform, offering features such as recommended videos, playlists, and user authentication. Overall, the YouTube clone app serves as a comprehensive solution for users who want to enjoy a YouTube-like experience on their mobile devices.
 
 # Tools Used
 
